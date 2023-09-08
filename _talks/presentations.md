@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: <font color="#008080"><i> Peer-reviewed Presentations</i> </font>
-permalink: /publications/
+title: <font color="#008080"><i> Presentations</i> </font>
+permalink: /Presentations/
 author_profile: true
 ---
+
+<font color="#2F4F4F"><b>Peer-reviewed</b></font>
 
 * Prusaczyk, E., Batinic, M., White, A.,<b>Roters, J.</b>, Ganesh, N., Earle, M., & Hodson, G. (2023, June). Replication, Revision, and Extension of the Conscionable Consumption Model of Pornography in a U.S. Sample of Feminist Porn Consumers. Talk to be submitted to the annual meeting of the Canadian Psychological Association, Toronto, Ontario, Canada.
 
