@@ -21,7 +21,7 @@ author_profile: true
 
 * Meloy, R. J., Book, A., Hosker-Field, A., Methot-Jones, T., & <b>Roters, J.</b> (2018). Social, Sexual, and Violent Predation: Are Psychopathic Traits Evolutionarily Adaptive? Violence and Gender. 0(0), 1-13. https://doi.org/10.1089/vio.2018.0012
 
-* <b>Roters, J.</b>, & Marshall, L. E. (2015). Using an evidenced-based approach to the treatment of Borderline Personality Disorder within a Maximum Secure Forensic Mental Health Centre. Crime Scene: Psychology Behind Bars and in Front of the Bench (the official organ of the criminal justice section of the Canadian Psychological Association), spring 2015 issues. 24-32.
+* <b>Roters, J.</b> & Marshall, L. E. (2015). Using an evidenced-based approach to the treatment of Borderline Personality Disorder within a Maximum Secure Forensic Mental Health Centre. Crime Scene: Psychology Behind Bars and in Front of the Bench (the official organ of the criminal justice section of the Canadian Psychological Association), spring 2015 issues. 24-32.
 
 * Marshall, L. E., Humphries, S., <b>Roters, J.</b>, & Davis, A. (2014). Sexual Addiction and Adult Attachment in Incarcerated Sexual Offenders and a Matched Community Comparison Group. Journal of Addiction and Therapy, 1(1), 1-9.
 
