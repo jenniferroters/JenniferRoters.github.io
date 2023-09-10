@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Brock University, Psychology Department"
-date: 
+date: 2016-09-01
 location: "St. Catharines, Canada"
 ---
 
