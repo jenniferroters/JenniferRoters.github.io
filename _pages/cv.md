@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/"CV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ C:\Users\Jen\Documents\GitHub\academicpages.github.io\files }}/files/"CV.pdf" width="600" height="700" type='application/pdf'>
 
