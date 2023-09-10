@@ -7,9 +7,9 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Journal article: Peer-reviewed</b></font>
 
-* <b>Roters, J.</b>, Book, A., & Visser, B. (accepted). The Role of Mindfulness in the Relationships Between Childhood Adversity and Borderline and Psychopathic Traits. Adversity and Resilience Science.
+* <b>Roters, J.</b>, Book, A., & Visser, B. (in press). The Role of Mindfulness in the Relationships Between Childhood Adversity and Borderline and Psychopathic Traits. Adversity and Resilience Science. 10.1007/s42844-023-00109-w
 
-* <b>Roters, J.</b> & Book, A. (accepted). Examining the complex relationship between childhood adversity, mindfulness, attachment and various personality outcomes: a bayesian structural equation modelling (SEM) approach. Journal of Psychological Trauma: Theory, Research, Practice, and Policy.
+* <b>Roters, J.</b> & Book, A. (in press). Examining the complex relationship between childhood adversity, mindfulness, attachment and various personality outcomes: a bayesian structural equation modelling (SEM) approach. Journal of Psychological Trauma: Theory, Research, Practice, and Policy. 10.1037/tra0001596
 
 * Kapoor, I., <b>Roters, J.</b>, & Murphy, T. I. (in press). The Effects of Online Materials on Student Performance: Types of Resources, Mode of Delivery. the Journal of Educators Online.
 
@@ -51,6 +51,16 @@ author_profile: true
 * Marshall, L. E. & <b>Roters, J.</b> (2019). Sexual Offenders: Treatment Approaches. Morgan, R. D. (Ed.). The SAGE Encyclopedia of Criminal Psychology. SAGE Publications, Incorporated.
 
 * Marshall, L. E. & <b>Roters, J.</b> (2017). Sexual Offender Treatment in Forensic and Correctional Settings. In Ireland, J. L., Ireland, C. A., Fisher, M., & Gredecki, N. (Eds.), The Routledge International Handbook of Forensic Psychology in Secure Settings (pp. 118-130). New York: Taylor & Francis.
+
+<font color="#2F4F4F"><b>In preparation or Under revision</b></font>
+
+* Marshall, L. E., <b>Roters, J.</b>, Marshall, W. L., Blacker, J. & Weatherston, V. (under revision). Sexual offenders and adverse childhood experiences: abuse subscale. Journal of Abuse: An International Impact Journal.
+
+* Prusaczyk, E., Batinic, M., White, A., <b>Roters, J.</b>, Ganesh, N., Earle, M., & Hodson, G. (in preparation). Replication, Revision, and Extension of the Conscionable Consumption Model of Pornography in a U.S. Sample of Feminist Porn Consumers.
+
+* Marshall, L. E., <b>Roters, J.</b>, & O'Brien, M. D. (in preparation). Sexual Desires and Beliefs about Social Acceptability in University Students and Low Socioeconomic Comparisons.
+
+* Marshall, L. E., Keating, M., <b>Roters, J.</b>, Rutherford, J., MacNeil, M., Ball, L., & Bridekirk, J. (in preparation). Reducing Inpatient Violence in a High Security Forensic Hospital.
 
 
 <html>
