@@ -1,11 +1,8 @@
 ---
-title: 'Press release'
-date: 2021-07-20
+layout: archive
+title: <font color="#008080"><i> Press Release</i> </font>
 permalink: /Media/
-tags:
-  - cool posts
-  - category1
-  - category2
+author_profile: true
 ---
 
 Research on childhood neglect, abuse earns Psychology PhD student national Vanier Scholarship

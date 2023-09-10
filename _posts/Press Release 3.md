@@ -1,11 +1,8 @@
 ---
-title: 'Press release 3'
-date: 2019-04-30
+layout: archive
+title: <font color="#008080"><i> Press Release 3</i> </font>
 permalink: /Media/
-tags:
-  - cool posts
-  - category1
-  - category2
+author_profile: true
 ---
 
 Centre for Pedagogical Innovation: Graduate TA Award

@@ -1,11 +1,8 @@
 ---
-title: 'Press release 2'
-date: 2019-04-19
+layout: archive
+title: <font color="#008080"><i> Press Release 2</i> </font>
 permalink: /Media/
-tags:
-  - cool posts
-  - category1
-  - category2
+author_profile: true
 ---
 
 TAs celebrated for a job well done
