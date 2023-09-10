@@ -1,7 +1,7 @@
 ---
 title: 'Press release'
 date: 2021-07-20
-permalink: /Posts/
+permalink: /Media/
 tags:
   - cool posts
   - category1
