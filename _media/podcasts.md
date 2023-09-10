@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: <font color="#008080"><i> Podcasts</i> </font>
-permalink: /Podcasts/
-author_profile: true
+title: 'Podcast'
+date: 2021-10-12
+permalink: /Media/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 The impact of insecure attachment and childhood trauma (interview with personality disorder specialist Jen Roters)
