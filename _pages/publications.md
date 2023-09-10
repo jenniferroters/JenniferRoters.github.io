@@ -52,16 +52,6 @@ author_profile: true
 
 * Marshall, L. E. & <b>Roters, J.</b> (2017). Sexual Offender Treatment in Forensic and Correctional Settings. In Ireland, J. L., Ireland, C. A., Fisher, M., & Gredecki, N. (Eds.), The Routledge International Handbook of Forensic Psychology in Secure Settings (pp. 118-130). New York: Taylor & Francis.
 
-<font color="#2F4F4F"><b>In preparation or Under revision</b></font>
-
-* Marshall, L. E., <b>Roters, J.</b>, Marshall, W. L., Blacker, J. & Weatherston, V. (under revision). Sexual offenders and adverse childhood experiences: abuse subscale. Journal of Abuse: An International Impact Journal.
-
-* Prusaczyk, E., Batinic, M., White, A., <b>Roters, J.</b>, Ganesh, N., Earle, M., & Hodson, G. (in preparation). Replication, Revision, and Extension of the Conscionable Consumption Model of Pornography in a U.S. Sample of Feminist Porn Consumers.
-
-* Marshall, L. E., <b>Roters, J.</b>, & O'Brien, M. D. (in preparation). Sexual Desires and Beliefs about Social Acceptability in University Students and Low Socioeconomic Comparisons.
-
-* Marshall, L. E., Keating, M., <b>Roters, J.</b>, Rutherford, J., MacNeil, M., Ball, L., & Bridekirk, J. (in preparation). Reducing Inpatient Violence in a High Security Forensic Hospital.
-
 
 <html>
 <body style="background-color:#fff8f4;">
