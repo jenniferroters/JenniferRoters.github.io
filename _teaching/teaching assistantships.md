@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistantships"
+title: "Teaching Assistantships Undergraduate"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
