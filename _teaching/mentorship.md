@@ -2,7 +2,7 @@
 title: "Mentorship"
 collection: teaching
 type: "Undergraduate and Graduate Students"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/
 venue: "Brock University, Psychology Department"
 date: 2016-09-01
 location: "St. Catharines, Canada"
