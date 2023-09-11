@@ -1,5 +1,5 @@
 ---
-title: "Mentorship and Supervision"
+title: "Mentorship"
 collection: teaching
 type: "Undergraduate and Graduate Students"
 permalink: /teaching/mentorship
