@@ -1,5 +1,5 @@
 ---
-title: "Mentorship"
+title: "Mentorship and Supervision"
 collection: teaching
 type: "Undergraduate and Graduate Students"
 permalink: /teaching/mentorship
@@ -8,7 +8,15 @@ date: 2016-09-01
 location: "St. Catharines, Canada"
 ---
 
-I have also engaged in one to on co-supervision of students in various levels of their studies. 
+Mentorship
+======
+
+Student Social Events and Peer Mentoring Program: Mentorship Lead		      
+Graduate Studies in Psychology, Brock University
+Duration: February 2017- July 2021
+
+I had the opportunity to guide graduate students in confidential mentorship pairs that suited their needs. This program provides students with more senior graduate student mentors to aid in navigating funding applications, achieving academic success in courses, adapting to graduate student life, professional networking, dissertation writing, successful time-management, etc.
+
 
 Student Supervision
 ======
