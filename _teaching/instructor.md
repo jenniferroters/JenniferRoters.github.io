@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/teaching
+permalink: /teaching/instructor
 venue: "Brock University, Psychology Department"
 date: 2022-09-01
 location: "St. Catharines, Canada"
