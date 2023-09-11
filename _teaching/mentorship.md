@@ -8,8 +8,6 @@ date: 2016-09-01
 location: "St. Catharines, Canada"
 ---
 
-Mentorship
-======
 
 Student Social Events and Peer Mentoring Program: Mentorship Lead		      
 Graduate Studies in Psychology, Brock University
