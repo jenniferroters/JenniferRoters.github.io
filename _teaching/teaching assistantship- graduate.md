@@ -2,7 +2,7 @@
 title: "Teaching Assistantship Graduate"
 collection: teaching
 type: "Graduate courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching assistantship- graduate
 venue: "Brock University, Applied Disability Studies Department"
 date: 2022-01-01
 location: "St. Catharines, Canada"
