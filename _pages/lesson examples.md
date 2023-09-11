@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <font color="#008080"><i> Lesson Examples</i> </font>
-permalink: /lesson examples/
+permalink: /pages/lesson examples/
 author_profile: true
 ---
 
