@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <font color="#008080"><i> Media</i> </font>
-permalink: /Media/
+permalink: /media/
 author_profile: true
 ---
 
