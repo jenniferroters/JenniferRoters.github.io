@@ -10,6 +10,4 @@ Brock University Press Release: Centre for Pedagogical Innovation: Graduate TA A
 
 Jennifer Roters has been a TA for the Psychology department's Introductory Statistics and Research Methods course for two years. To read more, click on the link below.
 
-
-Link: https://brocku.ca/pedagogical-innovation/awards-grants/jennifer-roters/
-
+<a href=" https://brocku.ca/pedagogical-innovation/awards-grants/jennifer-roters/">Read about it here</a>

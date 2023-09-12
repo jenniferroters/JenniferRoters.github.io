@@ -14,4 +14,4 @@ Lesson examples for teaching R statistical coding
 lesson 3: <a href="https://jenniferroters.shinyapps.io/Homework3/">Recoding data in R</a>
 
 
-lesson 4: <a href="https://jenniferroters.shinyapps.io/homework4/">Using the `map function in R</a>
+lesson 4: <a href="https://jenniferroters.shinyapps.io/homework4/">Using the map function in R</a>
