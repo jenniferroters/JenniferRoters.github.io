@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <font color="#008080"><i> Press Release Friday, April 12, 2019 </i> </font>
-permalink: /media/
+permalink: /Media/
 author_profile: true
 ---
 
