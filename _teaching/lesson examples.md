@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: <font color="#008080"><i> Lesson Examples</i> </font>
-permalink: /pages/
-author_profile: true
+title: "Lesson Examples"
+collection: teaching
+type: "Graduate courses"
+permalink: /teaching/lesson examples
+venue: "Brock University, Psychology Department"
+date: 2021-02-01
+location: "St. Catharines, Canada"
 ---
 
 <font color="#2F4F4F"><b>Lesson examples for teaching R statistical coding</b></font>
