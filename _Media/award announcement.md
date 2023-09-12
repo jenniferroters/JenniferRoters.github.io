@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <font color="#008080"><i> Award Announcement</i> </font>
-permalink: /media/award announcement
+permalink: /Media/award announcement
 author_profile: true
 ---
 

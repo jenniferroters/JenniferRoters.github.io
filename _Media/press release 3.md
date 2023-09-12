@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <font color="#008080"><i> Press Release Tuesday, July 20, 2021</i> </font>
-permalink: /media/press release 3
+permalink: /Media/press release 3
 author_profile: true
 ---
 
