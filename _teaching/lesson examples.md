@@ -8,8 +8,8 @@ date: 2021-02-01
 location: "St. Catharines, Canada"
 ---
 
-<font color="#2F4F4F"><b>Lesson examples for teaching R statistical coding</b></font>
-
+Lesson examples for teaching R statistical coding
+======
 
 lesson 3: Recoding data in R <a href="https://jenniferroters.shinyapps.io/Homework3/">link text</a>
 
