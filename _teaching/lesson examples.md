@@ -8,8 +8,8 @@ date: 2021-02-01
 location: "St. Catharines, Canada"
 ---
 
-Lesson examples for teaching R statistical coding
-======
+These lesson examples are taken from teaching R statistical coding
+
 
 lesson 3: <a href="https://jenniferroters.shinyapps.io/Homework3/">Recoding data in R</a>
 
