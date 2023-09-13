@@ -7,11 +7,11 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Journal article: Peer-reviewed</b></font>
 
-* <b>Roters, J.</b>, Book, A., & Visser, B. (in press). The Role of Mindfulness in the Relationships Between Childhood Adversity and Borderline and Psychopathic Traits. Adversity and Resilience Science. 10.1007/s42844-023-00109-w
-
 * <b>Roters, J.</b> & Book, A. (in press). Examining the complex relationship between childhood adversity, mindfulness, attachment and various personality outcomes: a bayesian structural equation modelling (SEM) approach. Journal of Psychological Trauma: Theory, Research, Practice, and Policy. 10.1037/tra0001596
 
 * Kapoor, I., <b>Roters, J.</b>, & Murphy, T. I. (in press). The Effects of Online Materials on Student Performance: Types of Resources, Mode of Delivery. the Journal of Educators Online.
+
+* <b>Roters, J.</b>, Book, A., & Visser, B. (2023). The Role of Mindfulness in the Relationships Between Childhood Adversity and Borderline and Psychopathic Traits. Adversity and Resilience Science. https://doi.org/10.1007/s42844-023-00109-w
 
 * <b>Roters, J.</b> & Book, A. (2023). Attachment and mindfulness as mediators in the relationship between childhood adversity and personality outcomes. Journal of Child and Adolescent Trauma. 10.1007/s40653-023-00553-x
 
