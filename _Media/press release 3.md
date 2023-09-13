@@ -1,11 +1,8 @@
---
-title: "Press Release Tuesday, July 20, 2021"
-collection: Media
-type: "Graduate Scholarship"
+---
+layout: archive
+title: <font color="#008080"><i> Press Release Tuesday, July 20, 2021</i> </font>
 permalink: /Media/press release 3
-venue: "Brock University, Psychology Department"
-date: 2021-07-20
-location: "St. Catharines, Canada"
+author_profile: true
 ---
 
 Brock University Press Release: Research on childhood neglect, abuse earns Psychology PhD student national Vanier Scholarship
