@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <font color="#008080"><i> Podcast</i> </font>
-permalink: /pages/podcast
+permalink: /pages/Media/podcast
 author_profile: true
 ---
 
