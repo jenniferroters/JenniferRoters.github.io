@@ -7,9 +7,9 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Journal article: Peer-reviewed</b></font>
 
-* Kapoor, I., <b>Roters, J.</b>, & Murphy, T. I. (2024). The Effects of Online Materials on Student Performance: Types of Resources, Mode of Delivery. the Journal of Educators Online.https://doi.org/10.9743/JEO.2024.21.3.17 
+* Kapoor, I., <b>Roters, J.</b>, & Murphy, T. I. (2024). The Effects of Online Materials on Student Performance: Types of Resources, Mode of Delivery. the Journal of Educators Online. https://doi.org/10.9743/JEO.2024.21.3.17 
 
-* McLachlan, K., <b>Roters, J.</b>, Ahmed, D., Marshall, L. E., & Moulden, H. (2024). Adverse Childhood Experiences in Forensic Psychiatry: Prevalence and Correlates from Two Independent Canadian Samples. Journal of Forensic Psychiatry and Psychology.https://doi.org/10.1080/14789949.2024.2338905
+* McLachlan, K., <b>Roters, J.</b>, Ahmed, D., Marshall, L. E., & Moulden, H. (2024). Adverse Childhood Experiences in Forensic Psychiatry: Prevalence and Correlates from Two Independent Canadian Samples. Journal of Forensic Psychiatry and Psychology. https://doi.org/10.1080/14789949.2024.2338905
 
 * <b>Roters, J.</b> & Book, A. (2023). Examining the complex relationship between childhood adversity, mindfulness, attachment and various personality outcomes: a bayesian structural equation modelling (SEM) approach. Journal of Psychological Trauma: Theory, Research, Practice, and Policy. https://dx.doi.org/10.1037/tra0001596 
 
