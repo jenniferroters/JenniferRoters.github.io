@@ -1,8 +1,8 @@
 ---
-title: "Instructor"
+title: "Instructor Graduate"
 collection: teaching
 type: "Graduate courses"
-permalink: /teaching/instructor
+permalink: /teaching/instructor- graduate
 venue: "University of Northern British Columbia, Psychology Department"
 date: 2024-09-01
 location: "Prince George, Canada"
