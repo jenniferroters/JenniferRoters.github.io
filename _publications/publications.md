@@ -7,13 +7,15 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Journal article: Peer-reviewed</b></font>
 
-* Kapoor, I., <b>Roters, J.</b>, & Murphy, T. I. (in press). The Effects of Online Materials on Student Performance: Types of Resources, Mode of Delivery. the Journal of Educators Online.
+* Kapoor, I., <b>Roters, J.</b>, & Murphy, T. I. (2024). The Effects of Online Materials on Student Performance: Types of Resources, Mode of Delivery. the Journal of Educators Online.https://doi.org/10.9743/JEO.2024.21.3.17 
+
+* McLachlan, K., <b>Roters, J.</b>, Ahmed, D., Marshall, L. E., & Moulden, H. (2024). Adverse Childhood Experiences in Forensic Psychiatry: Prevalence and Correlates from Two Independent Canadian Samples. Journal of Forensic Psychiatry and Psychology.https://doi.org/10.1080/14789949.2024.2338905
 
 * <b>Roters, J.</b> & Book, A. (2023). Examining the complex relationship between childhood adversity, mindfulness, attachment and various personality outcomes: a bayesian structural equation modelling (SEM) approach. Journal of Psychological Trauma: Theory, Research, Practice, and Policy. https://dx.doi.org/10.1037/tra0001596 
 
 * <b>Roters, J.</b>, Book, A., & Visser, B. (2023). The Role of Mindfulness in the Relationships Between Childhood Adversity and Borderline and Psychopathic Traits. Adversity and Resilience Science. https://doi.org/10.1007/s42844-023-00109-w
 
-* <b>Roters, J.</b> & Book, A. (2023). Attachment and mindfulness as mediators in the relationship between childhood adversity and personality outcomes. Journal of Child and Adolescent Trauma. 10.1007/s40653-023-00553-x
+* <b>Roters, J.</b> & Book, A. (2023). Attachment and mindfulness as mediators in the relationship between childhood adversity and personality outcomes. Journal of Child and Adolescent Trauma. https://doi.org/10.1007/s40653-023-00553-x
 
 * <b>Roters, J.</b> & Book, A. (2023). Using the HEXACO to explain the structure of borderline and psychopathic personality traits. Journal of Personality and Mental Health. 1-11. http://doi.org/10.1002/pmh.1584
 
@@ -30,8 +32,6 @@ author_profile: true
 <font color="#2F4F4F"><b>Submitted</b></font>
 
 * <b>Roters, J.</b> & Book, A. (submitted). The Role of Insecure Attachment in the Relationship Between Childhood Adversity and Borderline/Psychopathic Traits. Journal of Personality and Mental Health. 
-
-* McLachlan, K., <b>Roters, J.</b>, Ahmed, D., Marshall, L. E., & Moulden, H. (submitted). Adverse Childhood Experiences in Forensic Psychiatry: Prevalence and Correlates from Two Independent Canadian Samples. Journal of Forensic Psychiatry and Psychology.
 
 <font color="#2F4F4F"><b>In-preparation or Under-revision</b></font>
 

@@ -8,7 +8,7 @@ author_profile: true
 Peer-Reviewed Presentations
 ======
 
-* Prusaczyk, E., Batinic, M., White, A.,<b>Roters, J.</b>, Ganesh, N., Earle, M., & Hodson, G. (2023, June). Replication, Revision, and Extension of the Conscionable Consumption Model of Pornography in a U.S. Sample of Feminist Porn Consumers. Talk to be submitted to the annual meeting of the Canadian Psychological Association, Toronto, Ontario, Canada.
+* Prusaczyk, E., Batinic, M., White, A., <b>Roters, J.</b>, Ganesh, N., Earle, M., & Hodson, G. (2023, June). Replication, Revision, and Extension of the Conscionable Consumption Model of Pornography in a U.S. Sample of Feminist Porn Consumers. Talk to be submitted to the annual meeting of the Canadian Psychological Association, Toronto, Ontario, Canada.
 
 * <b>Roters, J.</b>, Kapoor, I., & Murphy, T. (2022, December). The Impact of Study Resources and Delivery Methods on Course Performance. Roundtable for the 2022 Teaching to Enhance Research Methods and Statistics in Psychology (PsychTERMS) Conference.
 

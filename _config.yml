@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Research Interests"
 title_separator          : "-"
 name                     : &name "Jennifer Roters"
-description              : &description "Doctoral Candidate"
+description              : &description "Assistant Professor"
 url                      : https://jenniferroters.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jenniferroters/JenniferRoters.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jennifer Roters"
   avatar           : "me.jpg"
-  bio              : "Doctoral Candidate in Social/Personality Psychology"
-  location         : "Brock University, Ontario, Canada"
+  bio              : "Assistant Professor in the Department of Psychology, Counseling Program"
+  location         : "University of Northern British Columbia, British Columbia, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=B7r_3JAAAAAJ&hl=en"
