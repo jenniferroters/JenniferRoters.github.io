@@ -11,6 +11,9 @@ main:
 
   - title: "Media"
     url: /portfolio/
+ 
+   - title: "iai lab"
+    url: /iai lab/
     
   - title: "CV"
     url: /cv/
