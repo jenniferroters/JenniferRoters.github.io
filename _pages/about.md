@@ -12,6 +12,6 @@ I am currently an Assistant Professor at the University of Northern British Colu
 My experience ranges from theoretical work to research/statistical modelling to applied settings such as teaching, individual and group therapy, assessment and clinical supervision. I hold a MA in Clinical/Counselling Psychology from LaSalle University (Specialization in Professional Counselling) as well as a MA in Social/Personality Psychology at Brock University while holding a Canada Graduate Scholarships-Master's (CGS M) awarded by the Social Sciences and Humanities Research Council (SSHRC). I also am licensed with the College of Registered Psychotherapists. My broad range of experience reflects my passion for the breadth and depth of psychology and reinforces my helping others philosophy.
 
 
-<font color="#2F4F4F"><b>Research interests</b></font>
+<font color="#2F4F4F"><b>Current research interests</b></font>
 
-My research interests are quite broad encompassing Forensic, Clinical, Counseling, Social, and Personality Psychology while also utilizing advanced statistical modelling such as Structural Equation Modelling and techniques such as Bayesian Analyses. 
+My research interests are quite broad and integrate aspects from Forensic, Clinical, Counseling, Social, and Personality Psychology while also utilizing advanced statistical modelling such as Structural Equation Modelling and techniques such as Bayesian Analyses. My current projects with my graduate students are focusing in on interventions for normative samples.
