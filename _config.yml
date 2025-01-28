@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jennifer Roters / Academic site"
+title                    : "Research Interests"
 title_separator          : "-"
 name                     : &name "Jennifer Roters"
 description              : &description "Assistant Professor"
