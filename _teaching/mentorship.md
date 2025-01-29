@@ -9,7 +9,10 @@ location: "St. Catharines, Canada"
 ---
 
 
-Student Social Events and Peer Mentoring Program: Mentorship Lead		      
+Student Social Events and Peer Mentoring Program
+======
+
+Role: Mentorship Lead		      
 * Graduate Studies in Psychology, Brock University
 * Duration: February 2017- July 2021
 * I had the opportunity to guide graduate students in confidential mentorship pairs that suited their needs. This program provides students with more senior graduate student mentors to aid in navigating funding applications, achieving academic success in courses, adapting to graduate student life, professional networking, dissertation writing, successful time-management, etc.
