@@ -8,7 +8,10 @@ date: 2022-01-01
 location: "St. Catharines, Canada"
 ---
 
-Quantitative Methods in Social Science Research (Masters level course): This course focused on how to analyze quantitative data in behaviour analysis, with particular attention given to the opportunities and challenges provided by the use of SPSS. The main objective of this course was to learn how to think more critically and reflectively about data processing and analysis in behaviour analysis. The specific focus in the course was the fundamental statistical concepts that support the application of statistics to research along with the special challenges in applying these concepts via SPSS. Topics covered included:
+Quantitative Methods in Social Science Research
+======
+
+This Masters level course focused on how to analyze quantitative data in behaviour analysis, with particular attention given to the opportunities and challenges provided by the use of SPSS. The main objective of this course was to learn how to think more critically and reflectively about data processing and analysis in behaviour analysis. The specific focus in the course was the fundamental statistical concepts that support the application of statistics to research along with the special challenges in applying these concepts via SPSS. Topics covered included:
 
 * descriptive statistics and their utility in evaluating assumptions
 * basic group comparison procedures
